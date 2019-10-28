@@ -1,4 +1,3 @@
-# ViridianAnthem
-Repository for Github Pages snippets
+# art-TEWWG
 
 [Link](http://asyncViridian.github.io/art-TEWWG/)
